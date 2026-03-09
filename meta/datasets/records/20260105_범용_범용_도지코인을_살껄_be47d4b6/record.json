@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "header": {
+    "customer": "범용",
+    "system": "범용",
+    "category": "오류/장애",
+    "date_start": "2026-01-05",
+    "date_end": "2026-01-05",
+    "owner": "USER",
+    "title": "도지코인을 살껄",
+    "summary": "머스크형은 시바를 좋아하는구나"
+  },
+  "context": {
+    "background": "",
+    "scope": "",
+    "constraints": "",
+    "stakeholders": ""
+  },
+  "findings": {
+    "symptom": "",
+    "hypothesis": "",
+    "evidence": "",
+    "decision": ""
+  },
+  "actions": {
+    "steps": "",
+    "snippets": "",
+    "rollback": "",
+    "validation": ""
+  },
+  "result": {
+    "outcome": "",
+    "remaining_risks": "",
+    "next_actions": ""
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "timestamp": "2026-01-05 16:23",
+      "text": "도지는 짱짱 귀엽지",
+      "image_file": "근육시바밈_1.png"
+    },
+    {
+      "type": "text",
+      "timestamp": "2026-01-05 16:23",
+      "text": "시바견(일본어: 柴犬, しばいぬ)은 일본 고유의 견종이다. 수컷은 38-41 cm, 암컷은 35-38 cm 정도의 체구를 가진 중소형 견종이다. 일본에서 천연기념물로 지정된 7개의 일본 견종(현재는 6종)의 하나로, 1936년 12월 16일에 지정되었다. 현존 6견종 중 유일한 소형 견종이지만, 사육하는 수는 르면, 현재 일본에서 사육되는 일본 견종 6종 가운데, 시바이누는 약 80%를 차지하고 있다. 미국을 비롯해 외국에도 인기가 많다.\n\n정식적인 명칭은 JKC 에서는 ‘shiba’(しば), AKC에서는 ‘shiba-inu’(しばいぬ)로 명시되어 있다. 일본에서의 명칭으로는 \"시바(しば, 柴)\"에 한자 \"견(犬)\"의 음독인 \"겐(けん)\"을 붙여 시바켄(しばけん)이라 하기도 하지만, 대개 \"견\"의 훈독인 \"이누(いぬ)\"를 붙여 ‘시바이누’(しばいぬ)라고 한다. 또 공식적으로도 ‘시바’(しば, shiba) 또는 ‘시바이누’(しばいぬ, shiba-inu)가 맞는 표현이다."
+    }
+  ],
+  "rag_hints": {
+    "tags": [],
+    "questions": [],
+    "do_not_answer": ""
+  },
+  "_md_image_prefix": "attachments"
+}

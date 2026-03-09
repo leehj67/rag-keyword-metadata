@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+meta/.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+benchmark_full.log
+benchmark_error.log
+
+# Benchmark outputs
+meta/benchmark/results/
+meta/benchmark/cache/
+
+# BEIR dataset (download at runtime via beir/datasets)
+meta/benchmark/data/
+
+# Output / data
+output/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unrelated subprojects
+ragops-lite/
