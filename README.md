@@ -1,5 +1,10 @@
 # Keyword Ensemble Metadata for Retrieval Preprocessing in RAG Systems
 
+## Paper
+
+PDF:
+paper/rag_keyword_metadata.pdf
+
 This repository contains research experiments investigating keyword-based document metadata for retrieval preprocessing in Retrieval-Augmented Generation (RAG) systems.
 
 The goal of this project is to analyze whether simple keyword signals extracted from documents can be used as auxiliary retrieval signals when combined with traditional sparse retrieval models such as BM25.
